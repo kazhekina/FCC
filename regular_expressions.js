@@ -52,3 +52,9 @@
 // let alphabetRegex = /[a-z]/gi; // Change this line
 // let result = quoteSample.match(alphabetRegex); // Change this line
 
+// 10
+
+// let quoteSample = "Blueberry 3.141592653s are delicious.";
+// let myRegex = /[h-s2-6]/gi; // Change this line
+// let result = quoteSample.match(myRegex); // Change this line
+
