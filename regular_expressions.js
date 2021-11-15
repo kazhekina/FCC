@@ -58,3 +58,9 @@
 // let myRegex = /[h-s2-6]/gi; // Change this line
 // let result = quoteSample.match(myRegex); // Change this line
 
+// 11
+
+// let quoteSample = "3 blind mice.";
+// let myRegex = /[^ei0-9]/gi; // Change this line
+// let result = quoteSample.match(myRegex); // Change this line
+
