@@ -64,3 +64,9 @@
 // let myRegex = /[^ei0-9]/gi; // Change this line
 // let result = quoteSample.match(myRegex); // Change this line
 
+// 12
+
+// let difficultSpelling = "Mississippi";
+// let myRegex = /s+/g; // Change this line
+// let result = difficultSpelling.match(myRegex);
+
