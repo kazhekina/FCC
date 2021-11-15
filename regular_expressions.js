@@ -84,3 +84,7 @@
 // let myRegex = /<.*?>/; // Change this line
 // let result = text.match(myRegex);
 
+// 15
+
+// let reCriminals = /C+/; // Change this line
+
