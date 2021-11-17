@@ -74,3 +74,11 @@
 // // Only change code above this line
 
 
+// 7
+
+
+// const sum = (...args) => {
+//     return args.reduce((a, b) => a + b, 0);
+//   }
+
+
