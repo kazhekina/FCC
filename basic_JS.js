@@ -267,3 +267,31 @@
 // golfScore(5, 4);
 
 
+// 76
+
+
+// function caseInSwitch(val) {
+//   let answer = "";
+//   // Only change code below this line
+//   switch (val) {
+// case 1:
+//     return "alpha";
+//     break;
+// case 2:
+//     return "beta";
+//     break;
+// case 3:
+//     return "gamma";
+//     break;    
+// default:
+//     return "delta";
+//     break;
+//   }
+//   // Only change code above this line
+//   return answer;
+// }
+
+// caseInSwitch(1);
+
+
+
