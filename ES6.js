@@ -49,3 +49,9 @@
 //   const PI = freezeObj();
 
 
+//   4
+
+
+// const magic = () =>  new Date() 
+
+
